@@ -1,0 +1,86 @@
+
+/* TOUS LE DOCUMENTS*/
+body {
+  font-family: Impact;
+  background-color: #f78544;
+}
+
+/* LOGO + MENU NAV */
+#logo {
+  max-width: 15%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+#navbarNavAltMarkup {
+  justify-content: center;  
+}
+
+
+/* Barre - diviseur de page */
+.featurette-divider {
+  margin: 2rem 0; 
+  width: 1000px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* BLOC ANONCES*/
+ .featurette-heading {
+    font-size: 50px;
+    color: #050200;
+}
+
+
+.lead {
+  text-align: justify;
+
+  }
+  
+.newsletter {
+  font-family: Arial;
+  color: #050200;
+  text-align: center;
+  font-size: 50px;
+  
+}
+
+.home-newsletter {
+padding: 30px 0;
+background: #050200;
+}
+
+.home-newsletter .single {
+max-width: 650px;
+margin: 0 auto;
+text-align: center;
+position: relative;
+z-index: 2; }
+.home-newsletter .single h2 {
+font-size: 22px;
+color: white;
+text-transform: uppercase;
+margin-bottom: 40px; }
+.home-newsletter .single .form-control {
+height: 50px;
+background: #050200;
+border-color: transparent;
+border-radius: 10px 0 0 10px; }
+.home-newsletter .single .form-control:focus {
+box-shadow: none;
+border-color: #050200; }
+.home-newsletter .single .btn {
+min-height: 50px; 
+border-radius: 0 10px 10px 0;
+background: #050200;
+color: #050200;
+}
+
+
+
+
+
